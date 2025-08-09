@@ -5,22 +5,20 @@ I'm a Computer Engineer, Back-End Java Developer, Data Engineer, and more.
 I love working with Java backend stuff, and right now I'm all about leveling up my professional and soft skills
 by diving into new tech and cool architecture patterns that help build awesome stuff.
 
-## 🛠️ Technologies I Use
+## 🛠️ Technologies Iwant to use
 - Java 8, 11, 17, 19 ☕  
 - Hibernate & JPA 🗃️  
-- Spring Framework / Spring Boot / Spring Batch / Spring Security 🌱  
-- Spring Web Flow 🔄  
-- JSF (PrimeFaces) 🎨 
-- Databases: Oracle DB, PL/SQL, PostgreSQL, SQL Server, Cosmos DB, MongoDB 🐘🍃
-- Databases tha are integrated in SpringBoot: R2DBC , H2 🐘🍃
+- Spring Framework / Spring Boot / Spring Batch / Spring Security 🌱 Spring Web Flow 🔄  
+- HTML, JavaScript, Angular, JSF (PrimeFaces) 🎨 
+- Databases: Oracle DB, PL/SQL, PostgreSQL, SQL Server, Cosmos DB, MongoDB, DynamoDB 🐘🍃 R2DBC , H2 🐘🍃
 - Reactive Programming (WebFlux) ⚛️  
-- Tableau & amCharts 📊  
-- Git / Bitbucket / GitLab / SVN 🔧  
-- Shell scripting (Bash, CMD, PowerShell) 🐚  
+- Shell scripting (Bash, CMD, PowerShell) 🐚 I prefer Zsh
 - Cloud Platforms: Azure ☁️, Google Cloud Platform (GCP) ☁️  
 - Docker 🐳  Kubernetes 
 - Build Tools: Maven, Gradle ⚙️
--  Monitoring & Visualization: Grafana 📈  
+- Hexagonal Architecture, REST FULL Architecture
+- EDA: Kafka, PUB/SUB.  SAGA
+- Monitoring & Visualization: Grafana 📈  
 ##
 - 🔭 I’m currently working as a data engineer  
 - 🌱 I’m currently learning Python and I wanna learn AWS
