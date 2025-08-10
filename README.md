@@ -5,7 +5,7 @@ I'm a Computer Engineer, Back-End Java Developer, Data Engineer, and more.
 I love working with Java backend stuff, and right now I'm all about leveling up my professional and soft skills
 by diving into new tech and cool architecture patterns that help build awesome stuff.
 
-## 🛠️ Technologies Iwant to use
+## 🛠️ Technologies I want to use
 - Java 8, 11, 17, 19 ☕  
 - Hibernate & JPA 🗃️  
 - Spring Framework / Spring Boot / Spring Batch / Spring Security 🌱 Spring Web Flow 🔄  
